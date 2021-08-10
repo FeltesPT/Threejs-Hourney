@@ -56,7 +56,7 @@ bakedTexture.encoding = THREE.sRGBEncoding
 const bakedMaterial = new THREE.MeshBasicMaterial({ map: bakedTexture })
 
 // Portal Light Material
-debugObject.portalColorStart = '#2141aa'
+debugObject.portalColorStart = '#c4ca71'
 debugObject.portalColorEnd = '#ffffff'
 
 gui.addColor(debugObject, 'portalColorStart')
