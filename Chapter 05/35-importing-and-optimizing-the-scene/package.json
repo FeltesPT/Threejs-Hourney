@@ -19,7 +19,6 @@
     "mini-css-extract-plugin": "^2.0.0",
     "portfinder-sync": "0.0.2",
     "raw-loader": "^4.0.2",
-    "spectorjs": "^0.9.25",
     "style-loader": "^3.0.0",
     "three": "^0.130.0",
     "webpack": "^5.41.1",
